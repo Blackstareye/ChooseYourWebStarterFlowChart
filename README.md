@@ -1,6 +1,9 @@
 # Web - A little Overview
 
-![Choose](ChooseYourWebStarter.png)
+This little *ChooseYourWebstarter* project and flowchart is maybe able to help you to choose your web components / platform. If you want to participate, add or edit this flowchart, feel free to send me an updated version. Thanks! :)
+
+To reference the newest diagram, please open the .drawio file.
+![Choose](drawio_assets/ChooseYourWebStarter.svg)
 
 ## Server - Backend
 
@@ -17,6 +20,10 @@
 
 ### DB
 
+### Local DB
+
+* SQLite
+
 #### Relational:
   
 * Postgress SQL
@@ -25,7 +32,7 @@
 
 #### NOSQL
 
-* NodeJS
+* Node4j
 * Cassandra
 * MongoDB
 * ...
@@ -35,9 +42,9 @@
 * React
 * Bootstrap
   
-## Both
+## Both (Back- & Frontend)
 
-* AngularJS
+* Angular(JS)
 * Hugo
 
 ## CMS
@@ -50,4 +57,3 @@
 * Drupal
 * Typo3
 * Joomla
-
